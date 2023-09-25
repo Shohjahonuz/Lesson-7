@@ -1,0 +1,246 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 1120px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.headerbg {
+  background-color: #53afdd;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+
+  /* width: 1120px; */
+  height: 193px;
+
+  padding: 40px 40px 98px 0px;
+}
+.pp {
+  color: #25468a;
+  font-family: Roboto;
+  font-size: 24.683px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  display: inline-block;
+}
+.menu {
+  margin-right: 5px;
+}
+.menu a:hover {
+  color: #fff;
+  background-color: #53afdd;
+}
+.menu a {
+  padding-left: 32px;
+  text-decoration: none;
+  color: #25468a;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.a1 {
+  margin-left: 32px;
+  padding: 9px 18px 9px 10px;
+  border-radius: 24px;
+  background: #fff;
+  color: #25468a;
+}
+.nav1 {
+  display: flex;
+  gap: 32px;
+}
+.hh2 {
+  color: #25468a;
+  font-family: Roboto;
+  font-size: 92px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.hh3 {
+  color: #3b4a6b;
+  font-family: Roboto;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 8px;
+  margin-bottom: 42px;
+}
+.pp1 {
+  color: #3b4a6b;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 42px;
+}
+
+.aaa {
+  border-radius: 26px;
+  background: #f7ba0e;
+  padding: 15px 85px;
+  color: #3b4a6b;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 0.72px;
+  text-decoration: none;
+}
+.novb {
+  padding-bottom: 42px;
+}
+.mainbg {
+  background-color: #e9f5ff;
+  height: 2200px;
+  padding-top: 176px;
+  /* margin-bottom: 32px; */
+}
+.box1 {
+  background-color: #53afdd;
+  padding: 68px 34px;
+  border-radius: 8px;
+  background: #1391ce;
+  width: 352px;
+  height: 189px;
+
+  /* Large */
+  box-shadow: 0px 4px 6px 0px rgba(0, 0, 0, 0.05),
+    0px 10px 15px 0px rgba(31, 100, 133, 0.1);
+}
+.ppg {
+  color: #fff;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 0.88px;
+}
+.tepa {
+  display: flex;
+  gap: 42px;
+  justify-content: center;
+}
+.hhf {
+  padding-top: 42px;
+  justify-content: center;
+  color: #1391ce;
+  text-align: center;
+  font-family: Inter;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 121.3%; /* 43.668px */
+  letter-spacing: 0.36px;
+  width: 387px;
+}
+.hhj {
+  display: flex;
+  justify-content: center;
+}
+.chiziq {
+  margin-top: 15px;
+  background-color: #f7ba0e;
+  width: 160px;
+  height: 8px;
+  margin-left: 639px;
+}
+.orta {
+  display: flex;
+  padding-top: 96px;
+  gap: 112px;
+  justify-content: center;
+}
+.olx {
+  color: #25468a;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 134.3%; /* 21.488px */
+  letter-spacing: 0.16px;
+  text-transform: uppercase;
+}
+.olxuz {
+  padding-top: 16px;
+  color: #1391ce;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 134.3%; /* 42.976px */
+  letter-spacing: 0.32px;
+}
+.uzum {
+  width: 448px;
+  padding-top: 32px;
+  color: var(--Gray-2, #4f4f4f);
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 134.3%; /* 24.174px */
+  letter-spacing: 0.36px;
+}
+.footerend {
+  background-color: #1391ce;
+  height: 144px;
+}
+.ggd {
+  /* display: flex; */
+  padding-top: 32px;
+  /* align-content: space-between; */
+}
+.leftt {
+  padding-top: 22px;
+  color: var(--color-neutral-black-1, #302e2f);
+
+  /* Desktop/Body 1 */
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 134.3%; /* 21.488px */
+  letter-spacing: 0.16px;
+  display: inline-block;
+}
+.ongdan {
+  text-decoration-skip: ;
+}
+.oq {
+  color: #fff;
+  display: inline;
+}
+.olxuz1 {
+  color: #1391ce;
+  font-family: Inter;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 134.3%; /* 29.546px */
+  letter-spacing: 0.44px;
+  padding: 24px 0 18px 0;
+}
+.oppo {
+  display: inline-block;
+  /* padding-left: 16px; */
+}
+.ssu {
+  display: inline-block;
+}
+svg {
+  display: inline-block;
+}
